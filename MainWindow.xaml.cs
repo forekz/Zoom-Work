@@ -79,12 +79,8 @@ namespace MeetingLauncher
                 webClient.DownloadFile(url, tempFile);
                 Process.Start(tempFile);
             }
-            MessageBox.Show("The application has been downloaded and started.", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
-        }
-
-        private void CancelButton_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
+         
+      
         }
     }
 }

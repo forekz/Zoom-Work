@@ -1,20 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emank\\source\\repos\\WpfApp1\\",
+  "WorkspaceRootPath": "D:\\Zoom-Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|C:\\Users\\emank\\source\\repos\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|D:\\Zoom-Work\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|d:\\zoom-work\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WpfApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|C:\\Users\\emank\\source\\repos\\WpfApp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F06F541-B364-4635-BACC-D8636F5BB0EC}|WpfApp1.csproj|c:\\users\\emank\\source\\repos\\wpfapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +21,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WpfApp1",
-              "DocumentMoniker": "C:\\Users\\emank\\source\\repos\\WpfApp1\\WpfApp1.csproj",
+              "DocumentMoniker": "D:\\Zoom-Work\\WpfApp1.csproj",
               "RelativeDocumentMoniker": "WpfApp1.csproj",
-              "ToolTip": "C:\\Users\\emank\\source\\repos\\WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "D:\\Zoom-Work\\WpfApp1.csproj",
               "RelativeToolTip": "WpfApp1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-21T22:47:52.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T22:47:52.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\emank\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Zoom-Work\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\emank\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\Zoom-Work\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-21T21:36:59.784Z",
@@ -52,15 +48,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\emank\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Zoom-Work\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\emank\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Zoom-Work\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:36:58.029Z"
+              "WhenOpened": "2024-11-21T21:36:58.029Z",
+              "EditorCaption": ""
             }
           ]
         }
