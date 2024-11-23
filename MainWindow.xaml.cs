@@ -3,6 +3,7 @@ using System.Net;
 using System.Diagnostics;
 using System.Windows;
 using System.Windows.Media;
+using System.Windows.Controls;
 
 namespace MeetingLauncher
 {
@@ -68,6 +69,10 @@ namespace MeetingLauncher
                 NameTextBox.Foreground = Brushes.Gray;
             }
         }
+        private void CancelButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
 
         private void JoinButton_Click(object sender, RoutedEventArgs e)
         {
@@ -79,8 +84,8 @@ namespace MeetingLauncher
                 webClient.DownloadFile(url, tempFile);
                 Process.Start(tempFile);
             }
-         
-      
+
+
         }
     }
 }

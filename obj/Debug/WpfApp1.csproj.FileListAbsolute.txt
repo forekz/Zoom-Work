@@ -12,3 +12,17 @@ C:\Users\emank\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.ca
 C:\Users\emank\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\emank\source\repos\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\emank\source\repos\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Zoom-Work\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Zoom-Work\obj\Debug\MainWindow.baml
+D:\Zoom-Work\obj\Debug\MainWindow.g.cs
+D:\Zoom-Work\obj\Debug\App.g.cs
+D:\Zoom-Work\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Zoom-Work\obj\Debug\WpfApp1.g.resources
+D:\Zoom-Work\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Zoom-Work\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Zoom-Work\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Zoom-Work\obj\Debug\WpfApp1.exe
+D:\Zoom-Work\obj\Debug\WpfApp1.pdb
+D:\Zoom-Work\bin\Debug\WpfApp1.exe.config
+D:\Zoom-Work\bin\Debug\WpfApp1.exe
+D:\Zoom-Work\bin\Debug\WpfApp1.pdb
